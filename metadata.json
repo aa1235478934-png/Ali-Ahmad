@@ -1,0 +1,6 @@
+{
+  "name": "GadgetHub - Smart Gadgets Store",
+  "description": "Discover innovative gadgets and smart electronics for everyday life. Premium tech accessories, smart home, gaming, audio, and desk gadgets with instant WhatsApp ordering across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
